@@ -1,0 +1,122 @@
+Table: Filtered Cholestasiss 	 Removed Duplicates: 142 	 Total Lenght: 89 
+ 
+Table: Cholestasis 	 Removed Duplicates: 142 	 Total Lenght: 89 
+ 
+Table: Filtered Liver Injury 	 Removed Duplicates: 333 	 Total Lenght: 115 
+ 
+Table: Liver Injury 	 Removed Duplicates: 333 	 Total Lenght: 115 
+ 
+Table: Filtered cholestatic Jaundice 	 Removed Duplicates: 150 	 Total Lenght: 77 
+ 
+Table: Cholestatic Jaundice 	 Removed Duplicates: 150 	 Total Lenght: 77 
+ 
+Table: Filtered Jaundice 	 Removed Duplicates: 1047 	 Total Lenght: 350 
+ 
+Table: Jaundice 	 Removed Duplicates: 1047 	 Total Lenght: 350 
+ 
+Table: Filtered Hyperbilirubinemia 	 Removed Duplicates: 764 	 Total Lenght: 217 
+ 
+Table: Hyperbilirrubinemia 	 Removed Duplicates: 764 	 Total Lenght: 217 
+ 
+Table: Filtered Hepatotoxicity 	 Removed Duplicates: 636 	 Total Lenght: 187 
+ 
+Table: Filtered Hepatomegaly 	 Removed Duplicates: 177 	 Total Lenght: 132 
+ 
+Table: Hepatomegaly 	 Removed Duplicates: 177 	 Total Lenght: 132 
+ 
+Table: Filtered HepatoCellular injury 	 Removed Duplicates: 151 	 Total Lenght: 121 
+ 
+Table: Hepatocellular injury 	 Removed Duplicates: 151 	 Total Lenght: 121 
+ 
+Table: Filtered HepatoBiliary disorder 	 Removed Duplicates: 150 	 Total Lenght: 98 
+ 
+Table: Filtered Hepatic necrosis 	 Removed Duplicates: 182 	 Total Lenght: 78 
+ 
+Table: Filtered Abnormal Hepatic Fun  	 Removed Duplicates: 501 	 Total Lenght: 233 
+ 
+Table: Filtered Hepatic Failure 	 Removed Duplicates: 814 	 Total Lenght: 213 
+ 
+Table: Filtered Cholelitiasis 	 Removed Duplicates: 480 	 Total Lenght: 182 
+ 
+Table: Filtered Cholecystitis 	 Removed Duplicates: 271 	 Total Lenght: 172 
+ 
+Table: Filtered Autoimune hepatitis 	 Removed Duplicates: 25 	 Total Lenght: 16 
+ 
+Table: Filtered Hepatic Cirrhosis 	 Removed Duplicates: 38 	 Total Lenght: 44 
+ 
+Table: Filtered Hepatitis 	 Removed Duplicates: 1242 	 Total Lenght: 343 
+ 
+Table: Filtered Acute Hepatitis 	 Removed Duplicates: 48 	 Total Lenght: 34 
+ 
+Table: Filtered Cholestatic Hepatitis 	 Removed Duplicates: 65 	 Total Lenght: 42 
+ 
+Table: Filtered Fulminant Hepatitis 	 Removed Duplicates: 43 	 Total Lenght: 34 
+ 
+Table: Filtered Toxic Hepatitis 	 Removed Duplicates: 48 	 Total Lenght: 41 
+ 
+Table: Filtered Hepatic Steatosis 	 Removed Duplicates: 139 	 Total Lenght: 89 
+ 
+Table: Hepatic Steatosis 	 Removed Duplicates: 139 	 Total Lenght: 89 
+ 
+Table: Filtered Cholestasiss 	 Removed Duplicates: 142 	 Total Lenght: 89 
+ 
+Table: Cholestasis 	 Removed Duplicates: 142 	 Total Lenght: 89 
+ 
+Table: Filtered Liver Injury 	 Removed Duplicates: 333 	 Total Lenght: 115 
+ 
+Table: Liver Injury 	 Removed Duplicates: 333 	 Total Lenght: 115 
+ 
+Table: Filtered cholestatic Jaundice 	 Removed Duplicates: 150 	 Total Lenght: 77 
+ 
+Table: Cholestatic Jaundice 	 Removed Duplicates: 150 	 Total Lenght: 77 
+ 
+Table: Filtered Jaundice 	 Removed Duplicates: 1047 	 Total Lenght: 350 
+ 
+Table: Jaundice 	 Removed Duplicates: 1047 	 Total Lenght: 350 
+ 
+Table: Filtered Hyperbilirubinemia 	 Removed Duplicates: 764 	 Total Lenght: 217 
+ 
+Table: Hyperbilirrubinemia 	 Removed Duplicates: 764 	 Total Lenght: 217 
+ 
+Table: Filtered Hepatotoxicity 	 Removed Duplicates: 636 	 Total Lenght: 187 
+ 
+Table: Filtered Hepatomegaly 	 Removed Duplicates: 177 	 Total Lenght: 132 
+ 
+Table: Hepatomegaly 	 Removed Duplicates: 177 	 Total Lenght: 132 
+ 
+Table: Filtered HepatoCellular injury 	 Removed Duplicates: 151 	 Total Lenght: 121 
+ 
+Table: Hepatocellular injury 	 Removed Duplicates: 151 	 Total Lenght: 121 
+ 
+Table: Filtered HepatoBiliary disorder 	 Removed Duplicates: 150 	 Total Lenght: 98 
+ 
+Table: Filtered Hepatic necrosis 	 Removed Duplicates: 182 	 Total Lenght: 78 
+ 
+Table: Filtered Abnormal Hepatic Fun  	 Removed Duplicates: 501 	 Total Lenght: 233 
+ 
+Table: Filtered Hepatic Failure 	 Removed Duplicates: 814 	 Total Lenght: 213 
+ 
+Table: Filtered Cholelitiasis 	 Removed Duplicates: 480 	 Total Lenght: 182 
+ 
+Table: Filtered Cholecystitis 	 Removed Duplicates: 271 	 Total Lenght: 172 
+ 
+Table: Filtered Autoimune hepatitis 	 Removed Duplicates: 25 	 Total Lenght: 16 
+ 
+Table: Filtered Hepatic Cirrhosis 	 Removed Duplicates: 38 	 Total Lenght: 44 
+ 
+Table: Filtered Hepatitis 	 Removed Duplicates: 1242 	 Total Lenght: 343 
+ 
+Table: Filtered Acute Hepatitis 	 Removed Duplicates: 48 	 Total Lenght: 34 
+ 
+Table: Filtered Cholestatic Hepatitis 	 Removed Duplicates: 65 	 Total Lenght: 42 
+ 
+Table: Filtered Fulminant Hepatitis 	 Removed Duplicates: 43 	 Total Lenght: 34 
+ 
+Table: Filtered Toxic Hepatitis 	 Removed Duplicates: 48 	 Total Lenght: 41 
+ 
+Table: Filtered Hepatic Steatosis 	 Removed Duplicates: 139 	 Total Lenght: 89 
+ 
+Table: Hepatic Steatosis 	 Removed Duplicates: 139 	 Total Lenght: 89 
+ 
+Table: Filtered Doses Cholestasis 	 Removed Duplicates: 3 	 Total Lenght: 2 
+ 
